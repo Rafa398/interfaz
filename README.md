@@ -1,5 +1,16 @@
 <img width="1587" height="201" alt="wallpaper_itt" src="https://github.com/user-attachments/assets/18c44887-beaf-40f4-b014-2696589a06d2" />
 
+image
+Investigación Individual
+
+Ingeniería en Sistemas Computacionales
+Materia: Lenguaje de Interfaz
+👤 Información del Estudiante
+
+    **Nombre completo:Rafael Del Callejo Tapia
+    Horario: 5PM
+    **Título del tema:Innovación en microarquitecturas de procesadores modernos
+
 # Innovación en microarquitecturas de procesadores modernos
 
 La innovacion marcada por la transición de un enfoque puramente de rendimiento a un enfoque **híbrido y especializado**, impulsado por la necesidad de ejecutar cargas de inteligencia artificial (IA) de manera eficiente en el dispositivo ("on-device") y la optimización de la eficiencia energética.
