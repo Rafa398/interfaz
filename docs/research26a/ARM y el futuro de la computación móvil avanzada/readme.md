@@ -1,15 +1,15 @@
 ![Arm en computacion movil](https://images.cooltext.com/5752135.png)
 
-** Ingeniería en sistemas computacionales**
+ Ingeniería en sistemas computacionales
 
-** Materia: Lenguaje de interfaz **
+ Materia: Lenguaje de interfaz
 
 
-** Camarillo Molina Cristian **
+ Camarillo Molina Cristian
 
-** Horario: 5pm **
+ Horario: 5pm 
 
-** Arm y el futuro de la computacion movil avanzada **
+Arm y el futuro de la computacion movil avanzada 
 
 ## Introducción
 La computación móvil ha evolucionado rápidamente en las últimas décadas, y uno de los actores más importantes en esta transformación es Arm. Su arquitectura de procesadores se ha convertido en la base tecnológica de la mayoría de los dispositivos móviles modernos.
@@ -30,6 +30,8 @@ El dominio de Arm en la computación móvil no es casualidad. Es el resultado de
 
 ## Arquitectura RISC
 Arm se basa en la arquitectura RISC
+<img width="414" height="303" alt="imagen" src="https://github.com/user-attachments/assets/7c21f05e-afcf-4f04-aded-cf6962c97762" />
+
 ### ¿Qué significa esto?
 - Instrucciones más simples
 - Menos ciclos por instrucción
@@ -88,6 +90,20 @@ graph TD
     O --> R[Computación móvil avanzada]
     P --> S[Edge Computing]
 ```
+# Tabla resumen: Arm y el futuro de la computación móvil avanzada
+
+| Categoría | Descripción | Impacto en la Computación Móvil |
+|------------|-------------|----------------------------------|
+| ¿Qué es Arm? | Empresa británica que diseña arquitecturas de procesadores basadas en RISC y licencia sus diseños. | Permite que múltiples fabricantes desarrollen chips personalizados. |
+| Modelo de negocio | Licenciamiento de arquitectura en lugar de fabricación directa de chips. | Fomenta innovación y competencia entre fabricantes. |
+| Empresas que usan Arm | Apple, Qualcomm, Samsung Electronics, MediaTek | Desarrollo de SoC personalizados para smartphones, tablets y laptops. |
+| Arquitectura | RISC (Reduced Instruction Set Computing) | Instrucciones simples y eficientes. |
+| Ventajas de RISC | - Instrucciones más simples<br>- Menos ciclos por instrucción<br>- Menor consumo energético<br>- Diseño eficiente | Mejor rendimiento por watt y mayor eficiencia energética. |
+| Diferencia con x86 (Intel/AMD) | x86 fue diseñada para escritorio (alto rendimiento, mayor consumo). Arm fue diseñada para bajo consumo y sistemas embebidos. | Mayor duración de batería en dispositivos móviles. |
+| Optimización energética | - Estados de reposo avanzados<br>- Núcleos de alto rendimiento + núcleos eficientes<br>- Gestión inteligente de energía | Menor calentamiento y dispositivos más delgados. |
+| Dispositivos donde se usa | Smartphones, Tablets, Laptops, IoT | Dominio en computación móvil y expansión hacia edge computing. |
+| Futuro de Arm | Integración de IA en el dispositivo, edge computing y computación móvil avanzada | Mayor autonomía, procesamiento local y eficiencia energética. |
+---
 
 ## Conclusión 
 El liderazgo de Arm en la computación móvil avanzada no es casualidad. Su enfoque en la eficiencia energética, desde el diseño mismo de su arquitectura, le permitió adaptarse perfectamente a las necesidades de los dispositivos móviles. En un entorno donde la duración de batería y el rendimiento equilibrado son fundamentales, esta ventaja ha sido decisiva.
